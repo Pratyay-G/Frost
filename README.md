@@ -4,7 +4,7 @@
   <img src="logo.png" alt="Frost logo" width="600">
 </p>
 
-Frost calculates thermal properties of finite quantum spin systems with two
+Frost (Finite-temperature Renormalization Of System Tensors) calculates thermal properties of finite quantum spin systems with two
 independent algorithms: TanTRG and XTRG. They are available as separate
 modules (`Frost.TanTRG` and `Frost.XTRG`) and through the package-level
 `Frost.tantrg` and `Frost.xtrg` entry points.
